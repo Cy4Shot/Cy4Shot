@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cy4!</h1>
-<p align="center">My name is Cy4, and I make various random projects, mostly Modded Minecraft Related!</p>
+<p align="center">My name is Cy4, and I make various random projects, mostly Minecraft Modding related!</p>
 <p align="center"><a href="https://cy4mods.me/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cy4Shot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&ring=00FEFE&fire=00FEFE&currStreakLabel=00FEFE"/></a></p>
 <p align="center">I am currently working on <a href="https://cy4mods.me/machina"><strong>MACHINA</strong></a>, a tech / exploration mod for Minecraft!</p>
 <p align="center">I have also made many modding tutorials on my <a href="https://youtube.com/@cy4"><strong>Youtube Channel</strong></a>.</p>
