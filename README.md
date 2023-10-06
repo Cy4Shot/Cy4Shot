@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Cy4!</h1>
 <p align="center">My name is Cy4, and I make various random projects, mostly Minecraft Modding related!</p>
-<p align="center"><a href="https://cy4mods.me/"><img src="https://cy4stats.vercel.app/?user=Cy4Shot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&ring=00FEFE&fire=00FEFE&currStreakLabel=00FEFE"/></a></p>
-<p align="center">I am currently working on <a href="https://cy4mods.me/machina"><strong>MACHINA</strong></a>, a tech / exploration mod for Minecraft!</p>
+<p align="center"><a href="https://cy4.dev/"><img src="https://cy4stats.vercel.app/?user=Cy4Shot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&ring=00FEFE&fire=00FEFE&currStreakLabel=00FEFE"/></a></p>
+<p align="center">I am currently working on <a href="https://cy4.dev/machina"><strong>MACHINA</strong></a>, a tech / exploration mod for Minecraft!</p>
 <p align="center">I have also made many modding tutorials on my <a href="https://youtube.com/@cy4"><strong>Youtube Channel</strong></a>.</p>
-<p align="center">See more of my projects on my <a href="https://cy4mods.me"><strong>Website</strong></a>!</p>
+<p align="center">See more of my projects on my <a href="https://cy4.dev"><strong>Website</strong></a>!</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cy4Shot&style=for-the-badge&color=005555" alt="Cy4Shot" height="24px"/> </p>
 <div align="center">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
